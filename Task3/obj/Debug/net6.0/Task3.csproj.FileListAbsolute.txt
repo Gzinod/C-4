@@ -1,0 +1,15 @@
+C:\Games\Study\C#4\Task3\obj\Debug\net6.0\Task3.csproj.AssemblyReference.cache
+C:\Games\Study\C#4\Task3\obj\Debug\net6.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Study\C#4\Task3\obj\Debug\net6.0\Task3.AssemblyInfoInputs.cache
+C:\Games\Study\C#4\Task3\obj\Debug\net6.0\Task3.AssemblyInfo.cs
+C:\Games\Study\C#4\Task3\obj\Debug\net6.0\Task3.csproj.CoreCompileInputs.cache
+C:\Games\Study\C#4\Task3\bin\Debug\net6.0\Task3.exe
+C:\Games\Study\C#4\Task3\bin\Debug\net6.0\Task3.deps.json
+C:\Games\Study\C#4\Task3\bin\Debug\net6.0\Task3.runtimeconfig.json
+C:\Games\Study\C#4\Task3\bin\Debug\net6.0\Task3.dll
+C:\Games\Study\C#4\Task3\bin\Debug\net6.0\Task3.pdb
+C:\Games\Study\C#4\Task3\obj\Debug\net6.0\Task3.dll
+C:\Games\Study\C#4\Task3\obj\Debug\net6.0\refint\Task3.dll
+C:\Games\Study\C#4\Task3\obj\Debug\net6.0\Task3.pdb
+C:\Games\Study\C#4\Task3\obj\Debug\net6.0\Task3.genruntimeconfig.cache
+C:\Games\Study\C#4\Task3\obj\Debug\net6.0\ref\Task3.dll
